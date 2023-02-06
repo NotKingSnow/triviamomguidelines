@@ -48,10 +48,9 @@ Want to see a list full list of all the trivias?
 /trivia list
  
 Scoring options for trivia:
-/trivia edit name scoring FIRST
+/trivia edit config: name, option: scoring, value: FIRST/REDUCTIVE
 (First makes it so only one person can get the answer correct. Also make sure FIRST is in all caps)
  
-/trivia edit name scoring REDUCTIVE
-(Reductive makes it so 5 people are allowed to get the answer correct. Make sure reductive is also in caps)
+
  
 This should get you started. If you have any questions please contact us we will be glad to help! :)
