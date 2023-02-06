@@ -20,6 +20,8 @@ a "Lyanna Stark", "Lyanna"
 i "https://i.imgur.com/EGsEa8W.jpg"
  
 VERY IMPORTANT: You may have to manually add the "i." and ".jpg" once you copy/paste the file. That's fine, its still functional that way.
+
+Once done with creating your questions, use the RAW copy option, and copy the link.
  
 Now that we have questions covered, let's show you how to use Maester Bot.
 
