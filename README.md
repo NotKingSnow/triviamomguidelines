@@ -51,4 +51,4 @@ Scoring options for trivia:
 /trivia edit name scoring REDUCTIVE
 (Reductive makes it so 5 people are allowed to get the answer correct. Make sure reductive is also in caps)
  
-There are the basics for learning how to Trivia Mom. If you have any questions please contact us we will be glad to help! :)
+This should get you started. If you have any questions please contact us we will be glad to help! :)
