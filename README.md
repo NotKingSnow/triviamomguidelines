@@ -4,7 +4,7 @@ How do you make questions? Pretty easily!
 
 First, create either a GitHub or Pastebin account. Once you do so, create a Repository and set it to Public.
  
-Look at this example:
+To get you started with writing questions, here are some examples:
  
 q "**What is the first book in A Song of Ice and Fire?**"
 a "A Game of Thrones"
