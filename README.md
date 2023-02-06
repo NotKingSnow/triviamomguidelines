@@ -2,7 +2,7 @@ Hi, welcome to the Trivia Moms club! This document is here to serve as a guide f
  
 How do you make questions? Pretty easily!
 
-First create either a GitHub or Pastebin account. Once you do so, create a Repository and set it to Public.
+First, create either a GitHub or Pastebin account. Once you do so, create a Repository and set it to Public.
  
 Here look at this example:
  
@@ -13,16 +13,15 @@ For questions with multiple potential answers:
 q "**S01E01: Who is the first Targaryen to appear on screen in House of the Dragon?**"
 a "King Jaehaerys I Targaryen", "Jaehaerys I Targaryen", "Jaehaerys Targaryen", "Jaehaerys I", "Jaehaerys 1", "J1", "Jaehaerys"
  
-Do you want to include a image in your question?
+Want to include an image in your question?
  
 q "**Name the character in the picture.**"
 a "Lyanna Stark", "Lyanna"
 i "https://i.imgur.com/EGsEa8W.jpg"
  
-MAKE SURE YOUR IMGUR LINK MATCHES OTHERWISE IT WILL NOT SHOW
-https://i.imgur.com (Should look like this)
+VERY IMPORTANT: You may have to manually add the "i." and ".jpg" once you copy/paste the file. That's fine, its still functional that way.
  
-Now that we have Questions covered lets show you how to use Maester Bot.
+Now that we have questions covered, let's show you how to use Maester Bot.
 
 Master command: /trivia
 The criteria below will achieve most of the commands needed for being a Trivia Mom.
