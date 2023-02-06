@@ -1,6 +1,8 @@
 Hi, welcome to the Trivia Moms club! This document is here to serve as a guide for the newcomers.
  
 How do you make questions? Pretty easily!
+
+First create either a GitHub or Pastebin account. Once you do so, create a Repository and set it to Public.
  
 Here look at this example:
  
