@@ -4,7 +4,7 @@ How do you make questions? Pretty easily!
 
 First, create either a GitHub or Pastebin account. Once you do so, create a Repository and set it to Public.
  
-Here look at this example:
+Look at this example:
  
 q "**What is the first book in A Song of Ice and Fire?**"
 a "A Game of Thrones"
@@ -30,14 +30,14 @@ Want to create a trivia set?
 /trivia create name
  
 Want to edit the questions inside a trivia?
-/trivia edit name questions link
+/trivia edit config: name options: questions link
  
 Want to have the questions shuffle inside your set?
 /trivia edit name shuffle TRUE; FALSE for no shuffle.
 (Make sure true/false is in all caps)
  
 Want to start a trivia?
-/trivia start 
+/trivia start config: name, limit: number of questions, shuffle: TRUE/FALSE, scoring: REDUCTIVE/FIRST
  
 Want to stop a trivia?
 /trivia stop
